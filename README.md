@@ -1,4 +1,4 @@
-# Heading level 1 Hi there, I'm RANDRIAMIADANARIVO Ranto Harivelo Teddy (RaHaTex261), 25 years old👋
+# Hi there, I'm RANDRIAMIADANARIVO Ranto Harivelo Teddy (RaHaTex261), 25 years old👋
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and constantly learning new technologies. Below is a bit more about me:
 
