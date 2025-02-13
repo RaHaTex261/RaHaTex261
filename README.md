@@ -1,4 +1,8 @@
-# Hi there, I'm RANDRIAMIADANARIVO Ranto Harivelo Teddy (RaHaTex261), 25 years old👋
+# <h1 align="center">Hi there, I'm RANDRIAMIADANARIVO Ranto Harivelo Teddy (RaHaTex261) 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RaHaTex261&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and constantly learning new technologies. Below is a bit more about me:
 
