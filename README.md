@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 
 ## 🛠️ Technologies & Tools
 
-[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 📈 GitHub Stats
 
