@@ -41,7 +41,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 
 ![RaHaTex261's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaHaTex261&show_icons=true&theme=radical)
 
-![RaHaTex261's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaHaTex261&show_icons=true&theme=radical)
+[![RaHaTex261's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaHaTex261&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=RaHaTex261&show_icons=true&theme=radical
+)
 
 ## 🏆 Top Languages
 
