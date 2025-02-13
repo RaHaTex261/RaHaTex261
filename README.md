@@ -14,10 +14,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java
-- **Web Development:** HTML, CSS, ReactJs, Node.js, Express
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker
+https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white
 
 ## 📈 GitHub Stats
 
