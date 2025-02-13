@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 ## 🛠️ Technologies & Tools
 
 ### **Language**  
-[Python Logo](https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/assets/python-logo.png)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
