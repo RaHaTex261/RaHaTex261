@@ -47,7 +47,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ranto-harivelo-teddy-randriamiadanarivo-07ab33285/)
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/ranto-harivelo-teddy-randriamiadanarivo-07ab33285/)
+
 
 ## 📜 License
 
